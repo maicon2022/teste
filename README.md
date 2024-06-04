@@ -5,7 +5,7 @@
 Este é um aplicativo Android desenvolvido em **Kotlin** que exibe o **dia e a data completa** do momento em que você abre o aplicativo. Além disso, oferece um **formulário interativo** onde você pode digitar o dia, mês e ano para receber o **dia da semana correspondente**.
 
 <p align="center">
-    <img width="470" src="img/Aplicativo.jpg">
+    <img width="300" src="img/Aplicativo.jpg">
 </p>
 
 ## Funcionalidades
